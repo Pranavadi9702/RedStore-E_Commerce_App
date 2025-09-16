@@ -88,5 +88,5 @@ RedStore is a responsive **e-commerce website** built with **HTML, CSS, and Java
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/redstore.git
+git clone https://github.com/Pranavadi9702/RedStore-E_Commerce_App.git
 cd redstore
